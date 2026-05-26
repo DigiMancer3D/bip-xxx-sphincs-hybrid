@@ -27,7 +27,7 @@ All generated files are placed in `../svc-wallet/`.
 
 ## Offline Formatting
 
-Use the included `bitaddress.org.html` (open locally in browser) to turn the raw private key from the `.sphincs++` file into a proper WIF and legacy address.
+Use [PointBiz's `bitaddress.org.html`](https://github.com/pointbiz/bitaddress.org) (open locally in browser) to turn the raw private key from the `.sphincs++` file into a proper WIF and legacy address.
 
 ## Files
 
